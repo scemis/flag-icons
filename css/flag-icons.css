@@ -1164,6 +1164,12 @@
 .flag-icon-ru.flag-icon-squared {
   background-image: url(../flags/1x1/ru.svg);
 }
+.flag-icon-ru-ce {
+  background-image: url(../flags/4x3/ru-ce.svg);
+}
+.flag-icon-ru-ce.flag-icon-squared {
+  background-image: url(../flags/1x1/ru-ce.svg);
+}
 .flag-icon-ru-da {
   background-image: url(../flags/4x3/ru-da.svg);
 }
@@ -1176,11 +1182,29 @@
 .flag-icon-ru-kb.flag-icon-squared {
   background-image: url(../flags/1x1/ru-kb.svg);
 }
+.flag-icon-ru-kl {
+  background-image: url(../flags/4x3/ru-kl.svg);
+}
+.flag-icon-ru-kl.flag-icon-squared {
+  background-image: url(../flags/1x1/ru-kl.svg);
+}
 .flag-icon-ru-se {
   background-image: url(../flags/4x3/ru-se.svg);
 }
 .flag-icon-ru-se.flag-icon-squared {
   background-image: url(../flags/1x1/ru-se.svg);
+}
+.flag-icon-ru-ty {
+  background-image: url(../flags/4x3/ru-ty.svg);
+}
+.flag-icon-ru-ty.flag-icon-squared {
+  background-image: url(../flags/1x1/ru-ty.svg);
+}
+.flag-icon-ru-ud {
+  background-image: url(../flags/4x3/ru-ud.svg);
+}
+.flag-icon-ru-ud.flag-icon-squared {
+  background-image: url(../flags/1x1/ru-ud.svg);
 }
 .flag-icon-rw {
   background-image: url(../flags/4x3/rw.svg);
