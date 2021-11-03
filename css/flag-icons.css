@@ -1170,6 +1170,18 @@
 .flag-icon-ru-da.flag-icon-squared {
   background-image: url(../flags/1x1/ru-da.svg);
 }
+.flag-icon-ru-kb {
+  background-image: url(../flags/4x3/ru-kb.svg);
+}
+.flag-icon-ru-kb.flag-icon-squared {
+  background-image: url(../flags/1x1/ru-kb.svg);
+}
+.flag-icon-ru-se {
+  background-image: url(../flags/4x3/ru-se.svg);
+}
+.flag-icon-ru-se.flag-icon-squared {
+  background-image: url(../flags/1x1/ru-se.svg);
+}
 .flag-icon-rw {
   background-image: url(../flags/4x3/rw.svg);
 }
